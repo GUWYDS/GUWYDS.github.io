@@ -70,7 +70,7 @@ I am particularly interested in safety risks that emerge at the systems and depl
 <div class="publication-list">
   <article class="publication-card">
     <div class="publication-card__media">
-      <img src="images/publication-precisiondiff.jpg" alt="PrecisionDiff preview image">
+      <img src="images/publication-precisiondiff.png" alt="PrecisionDiff preview image">
     </div>
     <div class="publication-card__body">
       <div class="publication-card__top">
@@ -91,7 +91,7 @@ I am particularly interested in safety risks that emerge at the systems and depl
 
   <article class="publication-card">
     <div class="publication-card__media">
-      <img src="images/publication-distributed-medical.jpg" alt="Distributed medical deployment research preview">
+      <img src="images/publication-distributed-medical.png" alt="Distributed medical deployment research preview">
     </div>
     <div class="publication-card__body">
       <div class="publication-card__top">
@@ -107,7 +107,7 @@ I am particularly interested in safety risks that emerge at the systems and depl
 
   <article class="publication-card">
     <div class="publication-card__media">
-      <img src="images/publication-compiler-backdoor.jpg" alt="Compiler-triggered backdoor attacks preview">
+      <img src="images/publication-compiler-backdoor.png" alt="Compiler-triggered backdoor attacks preview">
     </div>
     <div class="publication-card__body">
       <div class="publication-card__top">
@@ -118,22 +118,6 @@ I am particularly interested in safety risks that emerge at the systems and depl
       <p class="publication-card__authors"><strong>Yifei Wang</strong> | Advisors: Tianlin Li, Xiaohan Zhang, Xiaoyu Zhang</p>
       <p class="publication-card__meta">First Author | SJTU, NTU, BUAA</p>
       <p class="publication-card__summary">Examines compiler-triggered backdoor behavior that does not reside in model weights, exposing a new attack vector that can evade static weight-based safety audits.</p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__media">
-      <img src="images/publication-endoscopy-mllm.jpg" alt="Endoscopic report generation preview">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__top">
-        <span class="publication-card__venue">National Project</span>
-        <span class="publication-card__status">2025</span>
-      </div>
-      <h2 class="publication-card__title">Endoscopic Report Generation Based on Multimodal Large Language Models</h2>
-      <p class="publication-card__authors">National-level Innovation and Entrepreneurship Project</p>
-      <p class="publication-card__meta">Medical Image Processing</p>
-      <p class="publication-card__summary">Focused on multimodal medical report generation, addressing challenges beyond conventional lesion recognition and connecting image understanding with clinically useful language output.</p>
     </div>
   </article>
 </div>
