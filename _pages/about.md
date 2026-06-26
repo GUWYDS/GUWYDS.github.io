@@ -67,59 +67,44 @@ I am particularly interested in safety risks that emerge at the systems and depl
 
 # 📝 Publications
 
-<div class="publication-list">
-  <article class="publication-card">
-    <div class="publication-card__media">
-      <img src="images/publication-precisiondiff.png" alt="PrecisionDiff preview image">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__top">
-        <span class="publication-card__venue">ASE 2026</span>
-        <span class="publication-card__status">Under Review</span>
-      </div>
-      <h2 class="publication-card__title">
-        <a href="https://arxiv.org/pdf/2604.19790">PrecisionDiff: Automated Detection of Precision-Induced Disagreements in Large Language Models</a>
-      </h2>
-      <p class="publication-card__authors"><strong>Yifei Wang</strong>, collaborators with Shanghai Jiao Tong University, Nanyang Technological University, and Beihang University</p>
-      <p class="publication-card__meta">First Author | Independent Research</p>
-      <p class="publication-card__summary">An automated testing pipeline for detecting cross-precision disagreements in large language models, targeting deployment-aware safety evaluation under practical inference settings.</p>
-      <div class="publication-card__actions">
-        <a href="https://arxiv.org/pdf/2604.19790">Paper</a>
-      </div>
-    </div>
-  </article>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2026</div><img src='images/publication-precisiondiff.png' alt="PrecisionDiff preview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  <article class="publication-card">
-    <div class="publication-card__media">
-      <img src="images/publication-distributed-medical.png" alt="Distributed medical deployment research preview">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__top">
-        <span class="publication-card__venue">AAAI 2027</span>
-        <span class="publication-card__status">In Preparation</span>
-      </div>
-      <h2 class="publication-card__title">Reliability Testing of Medical Model Performance under Distributed Deployment</h2>
-      <p class="publication-card__authors"><strong>Yifei Wang</strong> | Advisors: Tianlin Li, Xiaohan Zhang, Xiaoyu Zhang</p>
-      <p class="publication-card__meta">First Author | SJTU, NTU, BUAA</p>
-      <p class="publication-card__summary">Studies how distributed frameworks such as vLLM and DeepSpeed induce backend-dependent behavior divergence, with emphasis on safety-critical medical deployment risks caused by operator fusion, parallel reduction, and precision truncation.</p>
-    </div>
-  </article>
+[PrecisionDiff: Automated Detection of Precision-Induced Disagreements in Large Language Models](https://arxiv.org/pdf/2604.19790)
 
-  <article class="publication-card">
-    <div class="publication-card__media">
-      <img src="images/publication-compiler-backdoor.png" alt="Compiler-triggered backdoor attacks preview">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__top">
-        <span class="publication-card__venue">AAAI 2027</span>
-        <span class="publication-card__status">In Preparation</span>
-      </div>
-      <h2 class="publication-card__title">Trusted Weights, Treacherous Backends: Compiler-Triggered Backdoor Attacks</h2>
-      <p class="publication-card__authors"><strong>Yifei Wang</strong> | Advisors: Tianlin Li, Xiaohan Zhang, Xiaoyu Zhang</p>
-      <p class="publication-card__meta">First Author | SJTU, NTU, BUAA</p>
-      <p class="publication-card__summary">Examines compiler-triggered backdoor behavior that does not reside in model weights, exposing a new attack vector that can evade static weight-based safety audits.</p>
-    </div>
-  </article>
+**Yifei Wang**, collaborators with Shanghai Jiao Tong University, Nanyang Technological University, and Beihang University
+
+[**Paper**](https://arxiv.org/pdf/2604.19790)
+- First author, under review at ASE 2026.
+- An automated testing pipeline for detecting cross-precision disagreements in large language models.
+- Focuses on deployment-aware safety evaluation under practical inference settings.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027</div><img src='images/publication-distributed-medical.png' alt="Distributed medical deployment research preview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reliability Testing of Medical Model Performance under Distributed Deployment**
+
+**Yifei Wang**, with advisors Tianlin Li, Xiaohan Zhang, and Xiaoyu Zhang
+
+- First author, in preparation for AAAI 2027.
+- Studies how distributed frameworks such as vLLM and DeepSpeed induce backend-dependent behavior divergence.
+- Focuses on safety-critical medical deployment risks caused by operator fusion, parallel reduction, and precision truncation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027</div><img src='images/publication-compiler-backdoor.png' alt="Compiler-triggered backdoor attacks preview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Trusted Weights, Treacherous Backends: Compiler-Triggered Backdoor Attacks**
+
+**Yifei Wang**, with advisors Tianlin Li, Xiaohan Zhang, and Xiaoyu Zhang
+
+- First author, in preparation for AAAI 2027.
+- Investigates compiler-triggered backdoor behavior that does not reside in model weights.
+- Reveals a new attack vector that can evade static weight-based safety audits.
+</div>
 </div>
 
 # 🎖 Honors and Awards
